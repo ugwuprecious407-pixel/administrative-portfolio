@@ -1,5 +1,5 @@
 # Administrative & Virtual Assistant Portfolio
-**Name:** Precious  
+**Name:** Precious Ugwu  
 **Role:** Administrative Assistant | Customer Support | Virtual Assistant  
 
 This portfolio contains simulated projects demonstrating real-world administrative tasks using Google Workspace tools.
